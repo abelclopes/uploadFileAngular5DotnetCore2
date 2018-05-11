@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/dotnetcoreupload.csproj",
+      "projectUniqueName": "/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/API/dotnetcoreupload.csproj",
       "projectName": "dotnetcoreupload",
-      "projectPath": "/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/dotnetcoreupload.csproj",
+      "projectPath": "/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/API/dotnetcoreupload.csproj",
       "packagesPath": "/home/local/DOMAINNT/abell/.nuget/packages/",
-      "outputPath": "/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/obj/",
+      "outputPath": "/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/API/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

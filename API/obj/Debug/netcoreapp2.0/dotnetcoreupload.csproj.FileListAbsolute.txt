@@ -9,3 +9,14 @@
 /home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/obj/Debug/netcoreapp2.0/dotnetcoreupload.dll
 /home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/obj/Debug/netcoreapp2.0/dotnetcoreupload.pdb
 /home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/obj/Debug/netcoreapp2.0/dotnetcoreupload.csprojResolveAssemblyReference.cache
+/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/API/bin/Debug/netcoreapp2.0/dotnetcoreupload.deps.json
+/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/API/bin/Debug/netcoreapp2.0/dotnetcoreupload.runtimeconfig.json
+/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/API/bin/Debug/netcoreapp2.0/dotnetcoreupload.runtimeconfig.dev.json
+/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/API/bin/Debug/netcoreapp2.0/dotnetcoreupload.dll
+/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/API/bin/Debug/netcoreapp2.0/dotnetcoreupload.pdb
+/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/API/obj/Debug/netcoreapp2.0/dotnetcoreupload.csprojResolveAssemblyReference.cache
+/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/API/obj/Debug/netcoreapp2.0/dotnetcoreupload.csproj.CoreCompileInputs.cache
+/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/API/obj/Debug/netcoreapp2.0/dotnetcoreupload.AssemblyInfoInputs.cache
+/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/API/obj/Debug/netcoreapp2.0/dotnetcoreupload.AssemblyInfo.cs
+/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/API/obj/Debug/netcoreapp2.0/dotnetcoreupload.dll
+/home/local/DOMAINNT/abell/www/dotnet/dotnetcoreupload/API/obj/Debug/netcoreapp2.0/dotnetcoreupload.pdb
