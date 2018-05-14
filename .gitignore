@@ -10,7 +10,7 @@
 # dependencies
 /client/node_modules/*
 /node_modules/
-
+/client/package-lock.json
 # IDEs and editors
 /.idea
 .project
